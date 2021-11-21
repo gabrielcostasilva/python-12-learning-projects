@@ -1,6 +1,3 @@
-# python-12-learning-projects
-A set of 12 python projects for helping me get practice.
-
 # 12 Python Learning Projects
 The projects in this repo are based on [12 Beginner Python Projects - Coding Course](https://www.youtube.com/watch?v=8ext9G7xspg).
 
@@ -16,4 +13,4 @@ The projects in this repo varies from complexity, starting very easy and becomin
 
 - _rock, paper, scissors_ is a traditional game in which each player choose ... well... rock, paper or scissors! Rock wins over scissors, scissors wins over paper, and paper wins over rock. Again, this games uses the `random` library. I struggled to refactor the `is_win()` function, but I could not make it. In a Java world, I probably would use the [Strategy pattern](https://github.com/gabrielcostasilva/dp-strategy.git) ;)
 
-- _handman_ is a another guessing game. The computer chooses a word from a (huge) list and you have to guess what word it is. As in previous games, the `random` library is used to randomly pick a word from a list. This game also introduces the `string` library, which we use to access the alphabet letters. In this game, the things start to get complex. The game is the longest so far in the number of lines of code. It also relies on several conditionals. This is the point in which the code design becomes important.
+- _hangman_ is a another guessing game. The computer chooses a word from a (huge) list and you have to guess what word it is. As in previous games, the `random` library is used to randomly pick a word from a list. This game also introduces the `string` library, which we use to access the alphabet letters. In this game, the things start to get complex. The game is the longest so far in the number of lines of code. It also relies on several conditionals. This is the point in which the code design becomes important.
