@@ -19,6 +19,6 @@ The projects in this repo varies from complexity, starting very easy and becomin
 
 - _binary search_ is an implementation of the binary search algorithm. The also code features a `naive_search` function that searches using a `for` loop for comparison purposes. It also uses the `time` module for checking the time each algorithm takes. 
 
-Ok, ok, I know what you are thinking, "What a heck! Where are the 12 projects???" I learning by doing. So, I needed to practice Python and these projects helped me to put basic Python skills in practice. I turns out that after a few projects, the rest was just repetition. Therefore, there is no point in keep going.
+Ok, ok, I know what you are thinking, "What a heck! Where are the 12 projects???" I learn by doing. So, I needed to practice Python and these projects helped me to put basic Python skills in practice. It turns out that after a few projects, the rest was just repetition. Therefore, there is no point in keep going.
 
 What I did was starting my own projects and practicing new features with little snippets. You can check them out in my repo list.
